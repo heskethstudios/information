@@ -1,5 +1,5 @@
 <size=30>VERSION 1.0.9.170</size>
-Hello, this new news window will be where I post the latest from now on as it saves me posting annoucements on both Discord and Steam for minor updates.
+Hello, this new news window will be where I post the latest information from now on as it saves me posting annoucements on both Discord and Steam for minor updates.
 
 Cheers,
 Rob

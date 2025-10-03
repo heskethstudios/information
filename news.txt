@@ -1,2 +1,10 @@
-Some news about stuff
-Good stuff!
+<size=30>VERSION 1.23.45</size>
+The following has been fixed
+ * New weapons
+ * New guns
+ * Door now opens
+ * Wepon upgraded
+ * Guns now shoot pigeons out the window, please make sure they are open
+
+Cheers,
+Rob

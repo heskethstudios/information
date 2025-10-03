@@ -1,10 +1,5 @@
-<size=30>VERSION 1.23.45</size>
-The following has been fixed
- * New weapons
- * New guns
- * Door now opens
- * Wepon upgraded
- * Guns now shoot pigeons out the window, please make sure they are open
+<size=30>VERSION 1.0.9.170</size>
+Hello, this new news window will be where I post the latest from now on as it saves me posting annoucements on both Discord and Steam for minor updates.
 
 Cheers,
 Rob

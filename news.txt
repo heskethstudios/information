@@ -11,7 +11,7 @@ The following has been fixed in this patch Version 1.0.9.172
 * When reloading a game as the CEO you now start a little to the right of the chair as not to get stuck in it.
 * Fixed default stance on factories not saving
 * Fixed some menus not expanding to cater for super wide screens
-* Added latest news to the main menu 
+* Added latest news to the main menu
 * Fixed Industrial and Science AI's not building tanks/walkers
 * Fixed Science not sending gateway probes
 

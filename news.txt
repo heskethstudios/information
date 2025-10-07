@@ -1,5 +1,5 @@
 Hello, this new news window will be where I will post anything relevent and important to read.
-The following has been fixed in this patch Version 1.0.9.171
+The following has been fixed in this patch Version 1.0.9.172
 
 * Fixed outpost not self destructing when nobody is onboard
 * Fixed zooming out and seeing cloaked ships

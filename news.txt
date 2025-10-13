@@ -1,19 +1,19 @@
-Hello, this new news window will be where I will post anything relevent and important to read.
-The following has been fixed in this patch Version 1.0.9.172
+Version 1.0.9.174 beta
 
-* Fixed outpost not self destructing when nobody is onboard
-* Fixed zooming out and seeing cloaked ships
-* Corrected an error in the spy tutorial
-* Fixed attempting to bring up the power screen in a system without any station causing the UI to freeze
-* Fixed critial error when fighter ships you are in is destroyed while the landing gear is deploying
-* Fixed charge up on longbows so turrets dont move till after firing
-* Added sound FX for Science mechs turning
-* When reloading a game as the CEO you now start a little to the right of the chair as not to get stuck in it.
-* Fixed default stance on factories not saving
-* Fixed some menus not expanding to cater for super wide screens
-* Added latest news to the main menu
-* Fixed Industrial and Science AI's not building tanks/walkers
-* Fixed Science not sending gateway probes
+* Fixed fighters trying to shoot units inside structure
+* Fixed fighters sometimes not targeting mechs
+* Fixed charge noise on large teleport
+* Fixed spawning in Executive fighter and pressing escape taking you to CEO mode
+* Fixed industrial invasion tutorial to swap out trading port with fighter port
+* Maximum of 2 AIs option removed.
+* Fixed ability to respawn at Executive shuttle
+* Fixed clone troopers not loading their armour
+* Fixed dropships causing a cascade cloning error.
+
+Balancing
+* Flame thrower weapon range increased from 4 to 8
+* Flame thrower turret health increased from 600 to 3000
+* Flame thrower now has as small AoE
 
 Cheers,
 Rob

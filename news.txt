@@ -1,4 +1,4 @@
-Version 1.0.9.175
+Version 1.0.9.175 beta
 Tiny little hot fix to sort 2 large issues:
 * Fixed AI not researching wormhole tech
 * Fixed exploit blowing up already destroyed turret pieces to gain Executron research points

@@ -1,5 +1,5 @@
 Version 1.0.9.176 beta
-<b>Fixes</b>
+FIXES
 * Fixed sometimes multiple colonies appearing in same starsystem
 * Fixed landed fighter inside starship not exploding when you jettison out with escape pod
 * Fixed fighter explosions causing a small slowdown
@@ -9,7 +9,7 @@ Version 1.0.9.176 beta
 * Fixed bug where pressing F2 while looking at base building terminal causes error
 * Fixed pressed 2 on troop transport causing cockpit to vanish
 
-<b>Balancing</b>
+BALANCING
 * Increased the detection rate of ships and defences
 * Ships coming out of a fracture point now require recharging their cruise speed engine.
 * Cruise speed recharging times have been reduced from 20 seconds to 10 seconds

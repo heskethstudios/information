@@ -1,4 +1,15 @@
-Version 1.0.9.176 beta
+Version 1.0.9.177 beta
+* Adjusted rotation speeds of drop pods from dropships to rotate faster
+* Prevented games starting if all companies are set to the same team.
+* Removed close icon from Research facility alighment terminal
+* Fixed another bug with mechs just stopping mid moving to a position if set to move to action
+* Fixed firing the rocket launcher/positron beam and sometimes it firing off in a random direction.
+
+Cheers,
+Rob
+----
+
+Version 1.0.9.177 beta
 FIXES
 * Fixed sometimes multiple colonies appearing in same starsystem
 * Fixed landed fighter inside starship not exploding when you jettison out with escape pod

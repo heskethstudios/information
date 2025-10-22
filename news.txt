@@ -53,24 +53,3 @@ Tiny little hot fix to sort 2 large issues:
 
 Cheers,
 Rob
-
-----
-Version 1.0.9.174 beta
-
-* Fixed fighters trying to shoot units inside structure
-* Fixed fighters sometimes not targeting mechs
-* Fixed charge noise on large teleport
-* Fixed spawning in Executive fighter and pressing escape taking you to CEO mode
-* Fixed industrial invasion tutorial to swap out trading port with fighter port
-* Maximum of 2 AIs option removed.
-* Fixed ability to respawn at Executive shuttle
-* Fixed clone troopers not loading their armour
-* Fixed dropships causing a cascade cloning error.
-
-Balancing
-* Flame thrower weapon range increased from 4 to 8
-* Flame thrower turret health increased from 600 to 3000
-* Flame thrower now has as small AoE
-
-Cheers,
-Rob

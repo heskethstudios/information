@@ -1,3 +1,14 @@
+Version 1.0.9.179 beta
+* Fixed stratific missile launcher panel
+* Fixed pickup ship not continuing journey after exiting fracture point
+* Fixed pickup ship not being armed
+* Fixed construction ship being destroyed while trying to place a structure and the hologram still remains
+* Fixed recursive bug with troop orders causing them to do strange things.
+* Fixed turrets being rebuilt when the building is disabled still working
+* Changed names for tank weapons
+
+----
+
 Version 1.0.9.177 beta
 * Adjusted rotation speeds of drop pods from dropships to rotate faster
 * Prevented games starting if all companies are set to the same team.

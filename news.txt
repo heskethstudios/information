@@ -1,3 +1,14 @@
+Version 1.0.9.182 beta (28/10/2025)
+* Fixed Blackstar not responding to Executron giving commands from terminal
+* Fixed Monolith firing at home system
+* Fixed Blackstar heavy weapons not firing
+* Blackstar can no longer equip EMP
+* Fixed bug where units would slide around and not animate
+* Fixed bug where green hack beam wouldnt appear
+* Fixed Deep Excavator construction effect not being damaged
+
+----
+
 Version 1.0.9.179 beta
 * Fixed strategic missile launcher panel
 * Fixed pickup ship not continuing journey after exiting fracture point
@@ -15,41 +26,3 @@ Version 1.0.9.177 beta
 * Removed close icon from Research facility alignment terminal
 * Fixed another bug with mechs just stopping mid moving to a position if set to move to action
 * Fixed firing the rocket launcher/positron beam and sometimes it firing off in a random direction.
-
-Cheers,
-Rob
-----
-
-Version 1.0.9.177 beta
-FIXES
-* Fixed sometimes multiple colonies appearing in same starsystem
-* Fixed landed fighter inside starship not exploding when you jettison out with escape pod
-* Fixed fighter explosions causing a small slowdown
-* Added a confirm exit on menu
-* Added rally point function to fighter port and command outpost
-* Fixed interaction notifications on bridges of star ships
-* Fixed bug where pressing F2 while looking at base building terminal causes error
-* Fixed pressed 2 on troop transport causing cockpit to vanish
-
-BALANCING
-* Increased the detection rate of ships and defences
-* Ships coming out of a fracture point now require recharging their cruise speed engine.
-* Cruise speed recharging times have been reduced from 20 seconds to 10 seconds
-
-A few things, if I could kindly ask that you try and include as much information in a report as you can, I do appreciate that you can be sending one in the heat of battle though.
-
-Can I also ask that if you are joining the beta testing that you familiarise your self with what has changed.
-
-Thank you all for the bug reports and helping to improve the beta, at some point will have to decide when to release it to the main branch.
-
-Cheers,
-Rob
-
-----
-Version 1.0.9.175 beta
-Tiny little hot fix to sort 2 large issues:
-* Fixed AI not researching wormhole tech
-* Fixed exploit blowing up already destroyed turret pieces to gain Executron research points
-
-Cheers,
-Rob

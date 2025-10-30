@@ -1,3 +1,19 @@
+Version 1.0.9.185 (30/10/25)
+* Added more waypoints to derelicts for patrols
+* Added warning boundery for fighters showing where the bounds are if they get too close
+* Fixed still seeing bridge after game ended if direct controlling ship
+* Incomes now show how many sources of that resource you have
+* Incomes for mining ships have been added showing an average of their round trip.
+* Leech ships income now included in income statistic.
+* Fixed issues with strategic missile base shield generator pathing
+* Ships no longer auto target fake trader ship unless it gets too close to a ship, can also be attacked by manually telling a ship to attack it
+* Fake trader ship is now detected the same as cloaked ships
+* Leech ship docking animation fixed
+* Extended rocks under asteroid
+* Can no longer use spy ops if its disabled
+
+----
+
 Version 1.0.9.182 beta (28/10/2025)
 * Fixed Blackstar not responding to Executron giving commands from terminal
 * Fixed Monolith firing at home system
@@ -19,10 +35,3 @@ Version 1.0.9.179 beta
 * Changed names for tank weapons
 
 ----
-
-Version 1.0.9.177 beta
-* Adjusted rotation speeds of drop pods from dropships to rotate faster
-* Prevented games starting if all companies are set to the same team.
-* Removed close icon from Research facility alignment terminal
-* Fixed another bug with mechs just stopping mid moving to a position if set to move to action
-* Fixed firing the rocket launcher/positron beam and sometimes it firing off in a random direction.

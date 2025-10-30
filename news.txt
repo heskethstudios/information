@@ -1,6 +1,6 @@
 Version 1.0.9.185 (30/10/25)
 * Added more waypoints to derelicts for patrols
-* Added warning boundery for fighters showing where the bounds are if they get too close
+* Added warning boundary for fighters showing where the bounds are if they get too close
 * Fixed still seeing bridge after game ended if direct controlling ship
 * Incomes now show how many sources of that resource you have
 * Incomes for mining ships have been added showing an average of their round trip.

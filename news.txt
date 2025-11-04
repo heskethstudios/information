@@ -1,3 +1,11 @@
+Version 1.0.9.187 (04/11/25)
+* Fixed telebeam still continuing after target building is destroyed causing floating troops
+* Made a slight tweak to the way shields work so more likely to register when they have 0 power
+* Fixed teams getting starter cores when reloading saves
+* Fixed allies discovering systems not working
+* Fixed plasma bombs not manually firing if you have an AI CEO
+* Fixed an error with the graphics if you turn off motion blur
+
 Version 1.0.9.185 (30/10/25)
 * Added more waypoints to derelicts for patrols
 * Added warning boundary for fighters showing where the bounds are if they get too close
@@ -22,16 +30,5 @@ Version 1.0.9.182 beta (28/10/2025)
 * Fixed bug where units would slide around and not animate
 * Fixed bug where green hack beam wouldnt appear
 * Fixed Deep Excavator construction effect not being damaged
-
-----
-
-Version 1.0.9.179 beta
-* Fixed strategic missile launcher panel
-* Fixed pickup ship not continuing journey after exiting fracture point
-* Fixed pickup ship not being armed
-* Fixed construction ship being destroyed while trying to place a structure and the hologram still remains
-* Fixed recursive bug with troop orders causing them to do strange things.
-* Fixed turrets being rebuilt when the building is disabled still working
-* Changed names for tank weapons
 
 ----

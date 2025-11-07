@@ -1,3 +1,15 @@
+Version 1.0.9.188 (07/11/25)
+* Fixed occasional arm bug with weapons rack
+* Fixed units having floating guns after being direct controlled
+* Fixed CEO sitting having floating gun
+* Fixed small error with charge up weapons
+* Fixed error with predictive aiming on troops and turrets
+* Fixed detector turret not constructing
+* Fixed ground artillery units shooting at nearby friendly units
+* Fixed AI base building error causing a building not to complete construction
+
+----
+
 Version 1.0.9.187 (04/11/25)
 * Fixed telebeam still continuing after target building is destroyed causing floating troops
 * Made a slight tweak to the way shields work so more likely to register when they have 0 power
@@ -5,6 +17,8 @@ Version 1.0.9.187 (04/11/25)
 * Fixed allies discovering systems not working
 * Fixed plasma bombs not manually firing if you have an AI CEO
 * Fixed an error with the graphics if you turn off motion blur
+
+----
 
 Version 1.0.9.185 (30/10/25)
 * Added more waypoints to derelicts for patrols
@@ -19,16 +33,3 @@ Version 1.0.9.185 (30/10/25)
 * Leech ship docking animation fixed
 * Extended rocks under asteroid
 * Can no longer use spy ops if its disabled
-
-----
-
-Version 1.0.9.182 beta (28/10/2025)
-* Fixed Blackstar not responding to Executron giving commands from terminal
-* Fixed Monolith firing at home system
-* Fixed Blackstar heavy weapons not firing
-* Blackstar can no longer equip EMP
-* Fixed bug where units would slide around and not animate
-* Fixed bug where green hack beam wouldnt appear
-* Fixed Deep Excavator construction effect not being damaged
-
-----

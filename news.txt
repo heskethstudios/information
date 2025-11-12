@@ -1,3 +1,17 @@
+Version 1.0.9.191 (12/11/25)
+Tiny but important patch out today to fix the following:
+* Fixed issue where FPS command mode gets stuck when exiting direct pilot mode of starship
+* Fixed being able to personal drop pod into the enemy HQ
+* Fixed bug where AI wasn't building outposts at the start.
+* Fixed back button on options menu
+
+Launch has gone super well and can see a lot of people are enjoying the game and giving some great feedback, if you are having fun please consider giving the game a little thumbs up on the Store page.
+
+Cheers,
+Rob
+
+-------
+
 Version 1.0.9.188 (07/11/25)
 * Fixed occasional arm bug with weapons rack
 * Fixed units having floating guns after being direct controlled
@@ -17,19 +31,3 @@ Version 1.0.9.187 (04/11/25)
 * Fixed allies discovering systems not working
 * Fixed plasma bombs not manually firing if you have an AI CEO
 * Fixed an error with the graphics if you turn off motion blur
-
-----
-
-Version 1.0.9.185 (30/10/25)
-* Added more waypoints to derelicts for patrols
-* Added warning boundary for fighters showing where the bounds are if they get too close
-* Fixed still seeing bridge after game ended if direct controlling ship
-* Incomes now show how many sources of that resource you have
-* Incomes for mining ships have been added showing an average of their round trip.
-* Leech ships income now included in income statistic.
-* Fixed issues with strategic missile base shield generator pathing
-* Ships no longer auto target fake trader ship unless it gets too close to a ship, can also be attacked by manually telling a ship to attack it
-* Fake trader ship is now detected the same as cloaked ships
-* Leech ship docking animation fixed
-* Extended rocks under asteroid
-* Can no longer use spy ops if its disabled

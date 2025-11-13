@@ -3,6 +3,8 @@ Version 1.0.9.192 (13/11/25)
 * Updated some of Mr Pointys guidence messages
 * Fixed company name not changing 
 
+-----
+
 Version 1.0.9.191 (12/11/25)
 Tiny but important patch out today to fix the following:
 * Fixed issue where FPS command mode gets stuck when exiting direct pilot mode of starship
@@ -15,7 +17,7 @@ Launch has gone super well and can see a lot of people are enjoying the game and
 Cheers,
 Rob
 
--------
+-----
 
 Version 1.0.9.188 (07/11/25)
 * Fixed occasional arm bug with weapons rack
@@ -27,7 +29,7 @@ Version 1.0.9.188 (07/11/25)
 * Fixed ground artillery units shooting at nearby friendly units
 * Fixed AI base building error causing a building not to complete construction
 
-----
+-----
 
 Version 1.0.9.187 (04/11/25)
 * Fixed telebeam still continuing after target building is destroyed causing floating troops

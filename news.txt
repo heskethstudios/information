@@ -1,3 +1,8 @@
+Version 1.0.9.192 (13/11/25)
+* Fixed Mr Pointy messages poping up when capturing a station as a CEO
+* Updated some of Mr Pointys guidence messages
+* Fixed company name not changing 
+
 Version 1.0.9.191 (12/11/25)
 Tiny but important patch out today to fix the following:
 * Fixed issue where FPS command mode gets stuck when exiting direct pilot mode of starship

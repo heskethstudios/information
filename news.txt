@@ -1,8 +1,3 @@
-(18/11/25)
-Multiplayer services may be disrupted due to Cloudflare issues.
-
------
-
 Version 1.0.9.192 (13/11/25)
 * Fixed Mr Pointy messages poping up when capturing a station as a CEO
 * Updated some of Mr Pointys guidence messages

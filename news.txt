@@ -1,4 +1,23 @@
-Version 1.099.195 (25/11/25)
+
+Version 1.0.9.197 (08/12/25)
+* Prevented ship speed being altered when in galaxy map mode
+* Unit design should not change now if something is researched which is the same level tech.
+* Fixed critical bug if passenger in fighter logged out
+* Added defence turrets to tutorials
+* Updated tutorial text and options
+* Reduced number of particles in Deep core mining plant to help with framerate
+* While constructing a building pressing WASD should no longer try and rename a building
+* Fixed some spelling mistakes
+* May have fixed current outpost count not being accurate
+* Fixed fighters being constructed on derelicts not flying off
+* Fixed exploit where you could self destruct enemy buildings from the command terminal
+* Fixed problem where gateway in its extended ground position wasn't syncing problem causing troop following issues.
+* Fixed inter bridge teleporter
+* Fixed exploit where you could self destruct enemy buildings from the command terminal (this hasn't been added to text as not fully released
+
+-----
+
+Version 1.0.9.195 (25/11/25)
 * Fixed CEO being able to access CEO request options
 * Fixed a bug where if you are direct controlling a unit and it dies while its looking at a terminal the screen will go strange.
 * Removed close button from power management terminal

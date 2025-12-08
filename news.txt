@@ -13,34 +13,3 @@ Version 1.0.9.197 (08/12/25)
 * Fixed problem where gateway in its extended ground position wasn't syncing problem causing troop following issues.
 * Fixed inter bridge teleporter
 * Fixed exploit where you could self destruct enemy buildings from the command terminal (this hasn't been added to text as not fully released
-
------
-
-Version 1.0.9.195 (25/11/25)
-* Fixed CEO being able to access CEO request options
-* Fixed a bug where if you are direct controlling a unit and it dies while its looking at a terminal the screen will go strange.
-* Removed close button from power management terminal
-* Can no longer dock with a starship while the galaxy map is open
-* Fixed error when trying to jettison out of a ship while its in fracture space.
-* Fixed ability to personal droppod into a system with fog of war.
-* Added RTS zoom in and out to Page up and Page down
-* Cancelling the construction of a building with the construction ship will now refund the resources
-* Updated command outpost description
-* Updated mining outpost descriptions
-* Updated the tutorial so that its clearer the goods facotory automatically produces goods
-* Updated large ship yard description to include limit information
-* Fixed gateway not docking with the specific building you tell it to
-* Fixed geothermal power station not working after realoading game
-* Fixed building outpost command and it vanishing when landing in it
-* Fixed end screen showing incorrect AI difficulties after disconnect
-* Added message if mining outpost isnt connected to resource gateway
-* Fixed building terminal on bridge not updating limits
-* Fixed asteroid derelicts sometime just vanishing after second destruction
-* Fixed inability to sometimes not rebuild turrets on asteroid derelicts
-* A ship being EMP'ed now has an electrical effect (check multiplayer)
-* Can no longer move a disabled ship as a pilot
-* Fixed some Industrial ships missing damaged smoke effects
-* Fixed AI going a little overboard building tritanium refinaries
-* Updated description on derelicts to include information about old power core
-* Now when you reach a building cap it says "Cap reached"
-

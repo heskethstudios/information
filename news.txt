@@ -1,4 +1,3 @@
-
 Version 1.0.9.197 (08/12/25)
 * Prevented ship speed being altered when in galaxy map mode
 * Unit design should not change now if something is researched which is the same level tech.

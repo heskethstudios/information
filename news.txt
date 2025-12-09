@@ -1,3 +1,13 @@
+Version 1.0.9.198 (09/12/25)
+* Fixed news on front page having limited amount of characters
+* Fixed executrons seeing 16/12 units on troop transport
+* Fixed dropship not heading to correct system when executron uses launch terminal
+* Added saftey nets to stop cockpit getting stuck on screen
+* Dropship pad moved to Combat tab
+* Executron can no longer target dropships at stations/space
+
+----
+
 Version 1.0.9.197 (08/12/25)
 * Prevented ship speed being altered when in galaxy map mode
 * Unit design should not change now if something is researched which is the same level tech.

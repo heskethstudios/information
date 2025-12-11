@@ -1,3 +1,9 @@
+Version 1.0.9.203 (11/12/25)
+* Added tips when the game loads.
+* Added turn off custom player logos toggle to options menu.
+
+----
+
 Version 1.0.9.198 (09/12/25)
 * Fixed news on front page having limited amount of characters
 * Fixed executrons seeing 16/12 units on troop transport

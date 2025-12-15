@@ -1,3 +1,9 @@
+Version 1.0.9.204 (15/12/25)
+* Fixed sometimes your fighter being suddenly controlled by the AI CEO
+* Fixed issue when 2 executrons die at the same time and the camera moves about.
+
+----
+
 Version 1.0.9.203 (11/12/25)
 * Added tips when the game loads.
 * Added turn off custom player logos toggle to options menu.

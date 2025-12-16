@@ -1,6 +1,5 @@
-**ALERT** (15/12/25)
-Had a bug report from someone where the UI started ghosting all over the place, this is because I think you somehow double clicked the Executive Start button.
-A hot fix will go out tomorrow to prevent this, in the meantime just press it once.
+Version 1.0.9.205 (16/12/25)
+* Fixed a critical bug if the Executive Start button was somehow double clicked.
 
 ----
 

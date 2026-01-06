@@ -1,3 +1,13 @@
+Version 1.0.9.207 (06/01/26)
+* Increased starting research points on economy tutorials to cater for mistakes.
+* Fixed 2 errors with the warp system when using wormholes which may have contributed to game instability.
+* Fixed holding down shift and able to construct multiple one time structures
+* Fixed shields extending all the way to the derelict geothermal
+* Updated security style doors icons
+* Fixed colliders on some desks
+
+----
+
 Version 1.0.9.206 (05/01/26)
 Happy new year everyone!
 Today I've put out a hot patch to fix a bug where sometimes reloading a save wouldnt load Energen and Research correctly.

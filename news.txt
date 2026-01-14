@@ -1,5 +1,8 @@
 ANNOUCEMENT (14/01/26)
 There seems to be network instability today from the multiplayer provider, hopefully will clear up soon.
+If you get a reconnection warning right from the start of a match then I would restart it.
+
+----
 
 Version 1.0.9.207 (06/01/26)
 * Increased starting research points on economy tutorials to cater for mistakes.

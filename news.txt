@@ -1,3 +1,12 @@
+Version 1.0.9.212
+* Added a new feature to research terminals where an Executron can not only see what the AI is researching but also request what they would like researched next, mainly for use with AI CEO's to prevent that last moment dash to try and get something researched before the AI does, but also handy for Executrons with human CEO's too where it will send them a message.
+* Fixed terminals sometimes activating when you are nowhere near them
+* Fixed an old message in the tutorial about pressing F1 to bring up the key bindings
+* Fixed target terminal breaking if gateway is destroyed
+* Fixed all of the HQ turrets not firing when direct controlling just 1
+* Fixed Science effeciency machines starting at 100%
+* Fixed Tank teleport targeting display so its much easier to use, now you simply set a target and move the teleprobe into the ring.
+
 Version 1.0.9.207 (06/01/26)
 * Increased starting research points on economy tutorials to cater for mistakes.
 * Fixed 2 errors with the warp system when using wormholes which may have contributed to game instability.

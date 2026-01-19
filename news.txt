@@ -7,6 +7,8 @@ Version 1.0.9.212
 * Fixed Science effeciency machines starting at 100%
 * Fixed Tank teleport targeting display so its much easier to use, now you simply set a target and move the teleprobe into the ring.
 
+----
+
 Version 1.0.9.207 (06/01/26)
 * Increased starting research points on economy tutorials to cater for mistakes.
 * Fixed 2 errors with the warp system when using wormholes which may have contributed to game instability.

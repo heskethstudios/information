@@ -1,3 +1,18 @@
+Version 1.0.9.218
+* Added new graphical settings to the options menu
+* Improved ground vehicle movement and precision when attacking
+* Pre-caches shaders to avoid stutters when playing the game for the first time
+* Single click moving mechs spread out on the battlefield will now move to one location instead of keeping their spread-out formation
+* Single click moving ships spread out in the sector will now move to one location instead of keeping their spread-out formation
+* Both ground vehicles and space ships will now auto move into a line formation at their destination rather than bunching up
+* Removed flickering text in unit information panel when hovering over a unit
+* Tweaked some deep graphical settings to help improve framerates
+* Sped up removal of units when an asteroid is destroyed
+* Fixed error occasionally preventing research
+* Rewritten the way the game verifies ownership to be less intrusive in offline mode
+
+----
+
 Version 1.0.9.212
 * Added a new feature to research terminals where an Executron can not only see what the AI is researching but also request what they would like researched next, mainly for use with AI CEO's to prevent that last moment dash to try and get something researched before the AI does, but also handy for Executrons with human CEO's too where it will send them a message.
 * Fixed terminals sometimes activating when you are nowhere near them
@@ -49,21 +64,3 @@ Version 1.0.9.198 (09/12/25)
 * Added safety nets to stop cockpit getting stuck on screen
 * Dropship pad moved to Combat tab
 * Executron can no longer target dropships at stations/space
-
-----
-
-Version 1.0.9.197 (08/12/25)
-* Prevented ship speed being altered when in galaxy map mode
-* Unit design should not change now if something is researched which is the same level tech.
-* Fixed critical bug if passenger in fighter logged out
-* Added defence turrets to tutorials
-* Updated tutorial text and options
-* Reduced number of particles in Deep core mining plant to help with framerate
-* While constructing a building pressing WASD should no longer try and rename a building
-* Fixed some spelling mistakes
-* May have fixed current outpost count not being accurate
-* Fixed fighters being constructed on derelicts not flying off
-* Fixed exploit where you could self destruct enemy buildings from the command terminal
-* Fixed problem where gateway in its extended ground position wasn't syncing problem causing troop following issues.
-* Fixed inter bridge teleporter
-* Fixed exploit where you could self destruct enemy buildings from the command terminal (this hasn't been added to text as not fully released

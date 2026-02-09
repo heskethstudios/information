@@ -1,3 +1,8 @@
+Version 1.0.9.219 (09/02/26)
+* HOTFIX - Fixed units and buildings not shooting or moving under certain circumstances.
+
+----
+
 Version 1.0.9.218
 * Added new graphical settings to the options menu
 * Improved ground vehicle movement and precision when attacking

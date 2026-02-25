@@ -1,3 +1,8 @@
+Version 1.0.9.221 (25/02/26)
+* Fixed error in research panel not showing correct research amount.
+
+----
+
 Version 1.0.9.220 (24/02/26)
 * Fixed inability to self destruct science gateway mining outposts
 * Fixed telebeam multiplyer research
